@@ -4,8 +4,10 @@
 ## About me
 
 Hello! My name is Feliciano Mazoio. I'm a Software Developer with a Bachelor's degree in Computer Science. I've been developing software for +4 years mainly WebDev and mobile harnessing skills in the following tools, languages and frameworks, mainly **Solidity**, **Java**, **Python**, **JavaScript**, **NodeJS**, **ReactJS** and **VS code**. I've been spending some of my time developing personal projects/software with the intent to help the community.
-I like reading books, listening to music, cycling, gaming and spending time with friends.
-🎯 **Currently following a career on blockchain development.**
+I like reading books, listening to music, cycling, gaming and spending time with friends.  
+<br/>
+🎯 **Currently following a career on blockchain development.**  
+<br/>
 Feel free to reach out to me.
 <small>P.S: I love **learning new things!**</small>
 
@@ -24,6 +26,8 @@ Feel free to reach out to me.
 - Developed Delivery app (Mobile & Web) for android devices; ![my badge](https://badgen.net/badge/personal%20project/2019/green?icon=codeclimate) ![my badge](https://badgen.net/badge/framework/nodejs/green?icon=codeclimate) ![my badge](https://badgen.net/badge/framework/reactjs/cyan?icon=codeclimate) ![my badge](https://badgen.net/badge/sdk/Android/green?icon=codebeat)
 - Participant of a hackathon which led me to develop a visit and visit management system for Port of Maputo (MPDC); ![my badge](https://badgen.net/badge/framework/nodejs/green?icon=codeclimate) ![my badge](https://badgen.net/badge/framework/reactjs/cyan?icon=codeclimate) ![my badge](https://badgen.net/badge/icon/docker?icon=docker&label) 
 - Currently Working in IT Auditing and Consulting ⚡;
+- Speaker at DevFest2022 Maputo in which i talked about **Blockchain and Web 3.0** 🎯;
+- Developed a Savings App as a teamwork side-project **(releasing soon)**;
 
 
 ### How to reach me
