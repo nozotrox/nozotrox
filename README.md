@@ -31,8 +31,9 @@ Feel free to reach out to me.
 
 
 ### How to reach me
-- [Twitter](https://twitter.com/nozotrox)
-- [LinkedIn](http://www.linkedin.com/in/feliciano-jr-mazoio)
+[![@nozotrox][Twitter-badge]](https://twitter.com/nozotrox)   
+[![@nozotrox][LinkedIn-badge]](http://www.linkedin.com/in/feliciano-jr-mazoio)   
+[![feliciano.j.a.mazoio@gmail.com][Gmail-badge]
 
 <!--
 **nozotrox/nozotrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
