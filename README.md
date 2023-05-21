@@ -33,8 +33,13 @@ Feel free to reach out to me.
 ### How to reach me
 [![@nozotrox][Twitter-badge]](https://twitter.com/nozotrox)   
 [![@nozotrox][LinkedIn-badge]](http://www.linkedin.com/in/feliciano-jr-mazoio)   
-[![feliciano.j.a.mazoio@gmail.com][Gmail-badge]
+![feliciano.j.a.mazoio@gmail.com][Gmail-badge]
 
+
+[Twitter-badge]:https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter&logoColor=blue&label=@nozotrox
+[Github-badge]:https://img.shields.io/badge/GitHub-100000?style=social&logo=github&label=nozotrox&logoColor=#242424
+[LinkedIn-badge]:https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&label=Feliciano_Mazoio&logoColor=blue
+[Gmail-badge]:https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&label=feliciano.j.a.mazoio@gmail.com&logoColor=red
 <!--
 **nozotrox/nozotrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
